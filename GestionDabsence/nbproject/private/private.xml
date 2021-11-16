@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/domain/Staf.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>11</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/GestionDabsence/src/controller/FXMLController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/GestionDabsence/src/model/dao/inmplement/StafDao.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/GestionDabsence/src/model/dao/inmplement/database/Connect.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/GestionDabsence/src/domain/Absences.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/GestionDabsence/src/model/dao/Dao.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/GestionDabsence/src/model/dao/inmplement/ApprenantDao.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/GestionDabsence/src/model/dao/inmplement/PromotionDao.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/GestionDabsence/src/model/dao/inmplement/AbsencesDao.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/GestionDabsence/src/model/dao/inmplement/RetarDao.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/GestionDabsence/src/view/Main.java</file>
+        </group>
+    </open-files>
+</project-private>
